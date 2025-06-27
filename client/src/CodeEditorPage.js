@@ -150,7 +150,7 @@ function CodeEditorPage() {
 
       {/* Footer with a little branding */}
       <footer style={{ background: '#23272f', padding: '0.7rem', textAlign: 'center', fontSize: 14, color: '#aaa' }}>
-        Andrew Maklakov - CollabCode &copy; {new Date().getFullYear()}; Real-time collaborative code editor MVP
+        Andrew Maklakov - Code Collaborator &copy; {new Date().getFullYear()}; Real-time collaborative code editor MVP
       </footer>
     </div>
   );
